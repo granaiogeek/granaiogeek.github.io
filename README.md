@@ -1,2 +1,2 @@
 # granaiogeek.github.io
-repo
+Blog
